@@ -14,6 +14,12 @@ This project has been approved by the Dungeon Crawler Carl fandom admins.
 
 ## Generated Dictionary Content
 
+Book-context additions are generated from the EPUB references in `referance/`,
+provided by the project owner with authorization for this use. These entries
+are concise contextual glossary notes and may contain short source excerpts.
+They are distinct from the wiki-derived entries below. Redistribution of
+book-derived content requires permission from the applicable rights holder.
+
 The code and documentation in this repository are licensed separately under the
 MIT License. See `LICENSE`.
 
