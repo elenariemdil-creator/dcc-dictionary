@@ -1,0 +1,12 @@
+StarDict's dict ifo file
+version=2.4.2
+wordcount=1300
+synwordcount=2725
+idxfilesize=32742
+bookname=Dungeon Crawler Carl Dictionary
+author=Generated from Dungeon Crawler Carl Wiki contributors
+website=https://github.com/jmcguire/dungeon-crawler-carl-dict
+description=Fan dictionary generated from Dungeon Crawler Carl Wiki contributors; content CC BY-SA 3.0.
+date=2026.09.28
+sametypesequence=h
+lang=en-en
